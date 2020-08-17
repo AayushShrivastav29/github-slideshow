@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "hello,my name is ayush Shrivastav!"
 
 ---
 
